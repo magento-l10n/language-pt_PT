@@ -2585,6 +2585,7 @@ Keywords,Palavras-chave
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Tem a certeza que pretende apagar o registo ""${ $.$data.title }""?"
 "Are you sure you wan't to delete selected items?","Tem a certeza que deseja excluir os itens selecionados?"
 "Search Engine Optimisation","Otimização para Motores de Pesquisa (SEO)"
+"Delete Selected","Apagar Seleção"
 "Create Folder","Criar Pasta"
 "Upload Images","Carregar Imagens"
 "The block will be removed from the update and all scheduled changes will be lost.","O bloco será removido da atualização e todas as alterações programadas serão perdidas."
