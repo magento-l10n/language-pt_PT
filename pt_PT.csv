@@ -7064,6 +7064,7 @@ Operations,Operações
 "Remove to Archive","Remover para Arquivo"
 "Go to Archive","Ir para o Arquivo"
 "The ""%1"" product is not part of the current creditmemo.","O produto ""%1"" não faz parte desta nota de crédito."
+"The return to stock argument contains product item that is not part of the original order.","O retorno do argumento ao stock contém um item que não faz parte do pedido original."
 "Are you sure you want to delete this?","Tem a certeza que pretende eliminar isto?"
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Aplicar a regra apenas a itens do carrinho que cumpram as seguintes condições (deixe em branco para todos os itens)."
 "Apply the rule only if the following conditions are met (leave blank for all products).","Aplicar a regra apenas se as seguintes condições forem verdadeiras (deixe em branco para todos os itens)."
