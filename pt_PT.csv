@@ -2164,6 +2164,7 @@ End,Fim
 "Changing can take some time due to processing whole catalog.","A mudança pode levar algum tempo devido ao processamento de todo o catálogo."
 "Automatically Return Credit Memo Item to Stock","Repor Stock Automaticamente do Item da Nota de Crédito"
 "Index stock","Índice de stock"
+"""model"" value should be specified","O valor ""model"" deve ser especificado"
 "New Permission","Nova Permissão"
 "You already have a permission with this scope.","Já tem uma permissão com este escopo."
 (Allow),(Permitir)
